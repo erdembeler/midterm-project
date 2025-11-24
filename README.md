@@ -20,8 +20,8 @@ The primary goal of this project phase is to complete the **Analysis, Design, an
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
-| **Taylan Alp** | Project Manager / UI Designer | JIRA Management, UI/UX Design (Figma), Authentication & Security Logic, Librarian Dashboard Workflow. |
-| **Erdem Beler** | System Architect / DB Specialist | Database Schema Design, UML Diagrams (Use Case, Sequence, ERD), Search Module Logic, Backend Validations. |
+| **Taylan Alp Çakı 220706010** | Project Manager / UI Designer | JIRA Management, UI/UX Design (Figma), Authentication & Security Logic, Librarian Dashboard Workflow. |
+| **Erdem Beler 220706011** | System Architect / DB Specialist | Database Schema Design, UML Diagrams (Use Case, Sequence, ERD), Search Module Logic, Backend Validations. |
 
 ---
 
